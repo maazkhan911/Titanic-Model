@@ -52,4 +52,4 @@ def func(request):
             return render(request , 'index.html' , data)
 
 
-        return render(request , 'index.html')
+        return render(request , 'index.html') 
